@@ -3,7 +3,7 @@
 
 <!-- Project Description -->
 <p align="center">
-  Low-latency video streaming and remote control system with live feedback.
+  Low-latency video streaming and remote control system with live feedback, The Elder Wand for most of the IoT devices.
 </p>
 
 <!-- Project Icons -->
