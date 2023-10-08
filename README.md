@@ -34,12 +34,12 @@ Follow these steps to set up and run Tele-Controller:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tele-controller.git
+   https://github.com/samriddha-basu-cloud/Tele-Controller.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd tele-controller
+   cd Tele-controller
    ```
 
 3. Install the required dependencies:
